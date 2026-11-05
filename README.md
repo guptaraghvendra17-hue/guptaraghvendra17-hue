@@ -45,6 +45,12 @@
 
 <br/><br/>
 
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+<br/><br/>
+
 <img src="./rasengan-run.gif" alt="Running chibi animation" width="150"/>
 
 ### 🌃 My contribution village
