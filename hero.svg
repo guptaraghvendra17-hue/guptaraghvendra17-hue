@@ -103,16 +103,16 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 
   <g class="fi" style="animation-delay:1.9s"><g transform="translate(60,306)"><g transform="scale(0.833)" opacity="1.0"><circle cx="0" cy="0" r="8" fill="none" stroke="#22d3ee" stroke-width="1.8"/><circle cx="0" cy="0" r="3" fill="#22d3ee"/></g></g></g>
   <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="1" style="animation-delay:2.0s">Aspiring Software Developer</text>
-  <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="0" style="animation-delay:5.3s">AI &amp; Machine Learning Explorer</text>
-  <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="0" style="animation-delay:8.6s">Computer Vision &amp; MediaPipe</text>
-  <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="0" style="animation-delay:11.9s">Full-Stack Web Builder</text>
+  <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="0" style="animation-delay:5.3s">AI &amp; Computer Vision Explorer</text>
+  <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="0" style="animation-delay:8.6s">React &amp; Next.js Web Builder</text>
+  <text class="role jb" x="78" y="312" font-size="19" fill="#eef1f7" opacity="0" style="animation-delay:11.9s">Android &amp; Kotlin Enthusiast</text>
 
-  <text class="sgm fu" x="52" y="356" font-size="16" fill="#8b93a7" style="animation-delay:2.6s">Turning theoretical concepts into functional AI apps</text>
-  <text class="sgm fu" x="52" y="378" font-size="16" fill="#8b93a7" style="animation-delay:2.7s">and interactive experiences &#8212; one commit at a time.</text>
+  <text class="sgm fu" x="52" y="356" font-size="16" fill="#8b93a7" style="animation-delay:2.6s">Building practical AI applications &amp; interactive</text>
+  <text class="sgm fu" x="52" y="378" font-size="16" fill="#8b93a7" style="animation-delay:2.7s">experiences &#8212; one commit at a time.</text>
 
-  <g class="fu" style="animation-delay:3.0s"><rect x="56" y="398" width="118" height="54" rx="12" fill="#fff" fill-opacity=".03" stroke="#272e42"/><text class="sg" x="70" y="428" font-size="22" fill="#22d3ee">9+</text><text class="jb" x="70" y="444" font-size="9" fill="#8b93a7" letter-spacing="1.6">REPOS</text></g>
+  <g class="fu" style="animation-delay:3.0s"><rect x="56" y="398" width="118" height="54" rx="12" fill="#fff" fill-opacity=".03" stroke="#272e42"/><text class="sg" x="70" y="428" font-size="22" fill="#22d3ee">9</text><text class="jb" x="70" y="444" font-size="9" fill="#8b93a7" letter-spacing="1.6">PUBLIC REPOS</text></g>
   <g class="fu" style="animation-delay:3.12s"><rect x="188" y="398" width="118" height="54" rx="12" fill="#fff" fill-opacity=".03" stroke="#272e42"/><text class="sg" x="202" y="428" font-size="20" fill="#a78bfa">BCA '26</text><text class="jb" x="202" y="444" font-size="9" fill="#8b93a7" letter-spacing="1.6">SRHU</text></g>
-  <g class="fu" style="animation-delay:3.24s"><rect x="320" y="398" width="118" height="54" rx="12" fill="#fff" fill-opacity=".03" stroke="#272e42"/><text class="sg" x="334" y="428" font-size="19" fill="#f472b6">ACTIVE</text><text class="jb" x="334" y="444" font-size="9" fill="#8b93a7" letter-spacing="1.6">LEARNER</text></g>
+  <g class="fu" style="animation-delay:3.24s"><rect x="320" y="398" width="118" height="54" rx="12" fill="#fff" fill-opacity=".03" stroke="#272e42"/><text class="sg" x="334" y="428" font-size="19" fill="#f472b6">STUDENT</text><text class="jb" x="334" y="444" font-size="9" fill="#8b93a7" letter-spacing="1.6">BUILDER</text></g>
 
   <g class="fu" style="animation-delay:3.5s">
     <rect x="452" y="398" width="138" height="54" rx="12" fill="#2fd48a" fill-opacity=".08" stroke="#2fd48a" stroke-opacity=".4"/>
@@ -125,7 +125,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <g transform="translate(1180,96)" opacity=".5"><g class="spin2"><g transform="scale(1.182)" opacity="0.9"><path d="M0-11 3.2-3.2 11 0 3.2 3.2 0 11-3.2 3.2-11 0-3.2-3.2Z" fill="none" stroke="#22d3ee" stroke-width="1.8" stroke-linejoin="round"/><circle r="2" fill="none" stroke="#22d3ee" stroke-width="1.5"/></g></g></g>
   <g transform="translate(56,500)" class="fi" style="animation-delay:3.8s">
     <text class="jb" x="0" y="0" font-size="10.5" fill="#8b93a7" letter-spacing="1.2">MINDSET &#183; </text>
-    <text class="jb" x="76" y="0" font-size="10.5" fill="#22d3ee" letter-spacing="1.2">Turning ideas into real-world AI software.</text>
+    <text class="jb" x="76" y="0" font-size="10.5" fill="#22d3ee" letter-spacing="1.2">Turning ideas into real-world software.</text>
   </g>
 </g>
 <rect x=".75" y=".75" width="1278.5" height="558.5" rx="23.25" fill="none" stroke="url(#hedge)" stroke-width="1.5"/>
