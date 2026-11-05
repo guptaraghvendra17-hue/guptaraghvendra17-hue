@@ -14,8 +14,8 @@
 
 <br/><br/>
 
-<!-- 🔦 TECH ARSENAL / JUTSU STACK -->
-<img src="./jutsu-stack.svg?v=1" alt="Tech arsenal — my technology stack" width="100%"/>
+<!-- 🔦 TECH ARSENAL / ORBITING TECH STACK -->
+<img src="./stack.svg?v=1" alt="Tech arsenal — my technology stack" width="100%"/>
 
 <br/><br/>
 
